@@ -51,3 +51,4 @@ pytest
 ## Notes
 - Make sure you are inside the virtual environment before running any commands.
 - Pytest will automatically discover test files named in the format `test_*.py` or `*_test.py`.
+- For more information go to https://docs.pytest.org/en/stable/getting-started.html
